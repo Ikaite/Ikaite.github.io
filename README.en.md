@@ -1,6 +1,6 @@
 # YUKI-NEKO's github website
-[中文][chinese]
-[日本語][japanese]
+[中文][cn]
+[日本語][ja]
 ## Career Objective
 Asp.net core Developer
 
@@ -34,5 +34,7 @@ Wuhan Ship vocational school
 1. Java,python,C
 2. Japanese N3
 3. Android Development,php,java web(Entry level)
-[chinese]:README.md
-[japanese]:README.ja.md
+
+
+[cn]:README.md
+[ja]:README.ja.md

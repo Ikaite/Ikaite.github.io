@@ -1,6 +1,6 @@
 # YUKI-NEKOのgithubウェブサイト
-[中文][chinese]
-[English][english]
+[中文][cn]
+[English][en]
 ## 就職意向
 Asp.net core Developer
 
@@ -34,5 +34,7 @@ Asp.net core Developer
 1. Java,python,C
 2. 日本語N3
 3. Android開発,php,java web(まだまだのレベルです)
-[english]:README.en.md
-[chinese]:README.md
+
+
+[en]:README.en.md
+[cn]:README.md

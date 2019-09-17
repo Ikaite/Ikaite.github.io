@@ -1,6 +1,7 @@
 # YUKI-NEKO的github静态网站
-[English][english]
-[日本語][japanese]
+[English][en]
+[日本語][ja]
+
 ## 求职意向
 Asp.net core 开发工程师
 
@@ -34,5 +35,7 @@ Asp.net core 开发工程师
 1. Java,python,C
 2. 日语N3
 3. Android开发,php,java web(入门水平)
-[english]:README.en.md
-[japanese]:README.ja.md
+
+
+[en]:README.en.md
+[ja]:README.ja.md
