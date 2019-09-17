@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# YUKI-NEKO的github静态网站
+[English][english]
+[日本語][japanese]
+## 求职意向
+Asp.net core 开发工程师
 
-You can use the [editor on GitHub](https://github.com/YUKI-NEKO/YUKI-NEKO.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 教育背景
+武汉船舶职业技术学院
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 实习经历
+### 广州福斯特
+1. 会计考试网站的表格制作
+2. 江西财经大学的考试页面制作
+3. 毕节职业技术学院的教学视频制作
 
-### Markdown
+## 学校项目
+### 2017年12月
+- 真香校园外卖后台管理系统
+### 2018年6月
+- timi视频网站
+### 2018年12月
+- 欢乐谷门票售卖系统
+### 2019年6月
+- 学生成绩管理系统
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YUKI-NEKO/YUKI-NEKO.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 技能
+1. asp.net core(学习中,但想尝试),asp.net等web框架
+2. html,css,js,bootstrap
+3. MS sqlserver
+4. PS,AE,PR
+5. MS office
+   
+## 其他
+1. Java,python,C
+2. 日语N3
+3. Android开发,php,java web(入门水平)
+[english][README.en.md]
+[japanese][README.ja.md]
