@@ -34,5 +34,5 @@ Asp.net core 开发工程师
 1. Java,python,C
 2. 日语N3
 3. Android开发,php,java web(入门水平)
-[english][README.en.md]
-[japanese][README.ja.md]
+[english]:README.en.md
+[japanese]:README.ja.md
