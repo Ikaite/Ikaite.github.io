@@ -1,6 +1,5 @@
 # YUKI-NEKOのgithubウェブサイト
-[中文][cn]
-[English][en]
+[中文][cn],[English][en]
 ## 就職意向
 Asp.net core Developer
 

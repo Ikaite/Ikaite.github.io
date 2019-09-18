@@ -1,6 +1,5 @@
 # YUKI-NEKO's github website
-[中文][cn]
-[日本語][ja]
+[中文][cn],[日本語][ja]
 ## Career Objective
 Asp.net core Developer
 

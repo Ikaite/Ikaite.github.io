@@ -1,6 +1,5 @@
 # YUKI-NEKO的github静态网站
-[English][en]
-[日本語][ja]
+[English][en],[日本語][ja]
 
 ## 求职意向
 Asp.net core 开发工程师
