@@ -1,4 +1,4 @@
-# YUKI-NEKO的github静态网站
+# YUKI-NEKO的简历
 [English][en],[日本語][ja]
 
 ## 求职意向
