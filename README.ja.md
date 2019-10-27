@@ -24,10 +24,10 @@ web Developer
 
 ## スキル
 1. .net
-2. html,css,js,bootstrap
+2. HTML,CSS,JS,Bootstrap
 3. SQL Server,MySQL
-4. PS,AE,PR
-5. MS office
+4. PS,AE,PR,MS office
+5. Git
    
 ## ほかのスキル
 1. Java,Python

@@ -24,10 +24,10 @@ Wuhan Ship vocational school
 
 ## skills
 1. .net
-2. html,css,js,bootstrap
-3. MS sqlserver
-4. PS,AE,PR
-5. MS office
+2. HTML,CSS,JS,Bootstrap
+3. SQL Server,MySQL
+4. PS,AE,PR,MS office
+5. Git
    
 ## Other skills
 1. Java,Python

@@ -24,11 +24,11 @@ web开发工程师
 - 学生成绩管理系统
 
 ## 技能
-1. .net相关
-2. html,css,js,bootstrap
+1. .net
+2. HTML,CSS,JS,Bootstrap
 3. SQL Server,MySQL
-4. PS,AE,PR
-5. MS office
+4. PS,AE,PR,MS office
+5. Git
    
 ## 其他
 1. Java,Python
