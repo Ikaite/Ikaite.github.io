@@ -1,7 +1,7 @@
 # YUKI-NEKOの履歴书
 [中文][cn],[English][en]
 ## 就職意向
-Asp.net core Developer
+web Developer
 
 ## 学歴
 武漢船専門学校
@@ -23,16 +23,16 @@ Asp.net core Developer
 - 学生の成績管理システム
 
 ## スキル
-1. asp.net core(勉強中ですが、やりたいです),asp.netなどのweb frame
+1. .net
 2. html,css,js,bootstrap
-3. MS sqlserver
+3. SQL Server,MySQL
 4. PS,AE,PR
 5. MS office
    
 ## ほかのスキル
-1. Java,python,C
+1. Java,Python
 2. 日本語N3
-3. Android開発,php,java web(まだまだのレベルです)
+3. Android
 
 
 [en]:README.en.md
