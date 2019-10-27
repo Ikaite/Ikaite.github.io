@@ -1,7 +1,7 @@
 # YUKI-NEKO's resume
 [中文][cn],[日本語][ja]
 ## Career Objective
-Asp.net core Developer
+web Developer
 
 ## Education background
 Wuhan Ship vocational school
@@ -23,16 +23,16 @@ Wuhan Ship vocational school
 - Student achievement management system
 
 ## skills
-1. asp.net core(Learning, but want to try),asp.net and other web frame
+1. .net
 2. html,css,js,bootstrap
 3. MS sqlserver
 4. PS,AE,PR
 5. MS office
    
 ## Other skills
-1. Java,python,C
+1. Java,Python
 2. Japanese N3
-3. Android Development,php,java web(Entry level)
+3. Android
 
 
 [cn]:README.md
